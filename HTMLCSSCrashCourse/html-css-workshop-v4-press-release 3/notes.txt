@@ -1,0 +1,7 @@
+1. Create main section
+2. Create title and subtitle
+3. Create release date
+4. Create story text (lorem ipsum)
+5. Create list of items (perhaps within a section tag)
+  5.a. Hyperlink items
+6. Add contact info, in its own <p> tag
